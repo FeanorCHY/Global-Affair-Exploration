@@ -1,0 +1,783 @@
+"SCountry","TCountry","Intensity"
+"Australia","Afghanistan",-45
+"Belgium","Afghanistan",-25
+"Canada","Afghanistan",-20
+"Denmark","Afghanistan",-5
+"France","Afghanistan",-43.2
+"Germany","Afghanistan",-6
+"Greece","Afghanistan",-5
+"Iran","Afghanistan",-123
+"Lesotho","Afghanistan",-2
+"Netherlands","Afghanistan",-14.4
+"Pakistan","Afghanistan",-78.4
+"Tajikistan","Afghanistan",-30
+"United Kingdom","Afghanistan",-2
+"United States","Afghanistan",-273
+"Uzbekistan","Afghanistan",-10
+"Serbia","Albania",-5
+"United States","Albania",-0.3
+"France","Algeria",-2
+"Lebanon","Algeria",-7.5
+"Somalia","Algeria",-9
+"Spain","Algeria",-4
+"Tunisia","Algeria",-4
+"Guinea","Angola",-9.5
+"Portugal","Angola",-10
+"Brazil","Argentina",-10
+"Spain","Argentina",-10
+"Azerbaijan","Armenia",-19
+"Tunisia","Armenia",-5
+"Afghanistan","Australia",-15
+"Cambodia","Australia",-10
+"China","Australia",-5
+"Czech Republic","Australia",-2
+"Hungary","Australia",-12
+"India","Australia",-5.3
+"Indonesia","Australia",-41
+"Pakistan","Australia",-5
+"Philippines","Australia",-2
+"South Africa","Australia",-5
+"Sweden","Australia",-45
+"Switzerland","Australia",-5
+"Timor-Leste","Australia",-5
+"United Kingdom","Australia",-14.4
+"United States","Australia",-58.4
+"Egypt","Austria",-5
+"Armenia","Azerbaijan",-29
+"Iran","Azerbaijan",-6
+"Russia","Azerbaijan",-2
+"Turkey","Azerbaijan",-5
+"United States","Azerbaijan",-12
+"India","Bahamas",-5
+"Egypt","Bahrain",-4
+"India","Bangladesh",-53
+"Indonesia","Bangladesh",-10
+"Mozambique","Bangladesh",-35
+"Myanmar","Bangladesh",-18.5
+"Spain","Bangladesh",-5
+"Tajikistan","Bangladesh",-5
+"United Kingdom","Bangladesh",-5
+"United States","Bangladesh",-5
+"Belgium","Belarus",-2
+"Denmark","Belarus",-0.3
+"Estonia","Belarus",-5
+"Germany","Belarus",-22.8
+"Japan","Belarus",-4
+"Latvia","Belarus",-4.6
+"Lithuania","Belarus",-8.9
+"Poland","Belarus",-20.5
+"Russia","Belarus",-4
+"Slovakia","Belarus",-6
+"South Korea","Belarus",-0.3
+"United Kingdom","Belarus",-4
+"United States","Belarus",-67.4
+"Canada","Belgium",-10
+"France","Belgium",-8
+"Germany","Belgium",-8
+"Iraq","Belgium",-2
+"Monaco","Belgium",-5.4
+"Ukraine","Belgium",-0.4
+"United States","Belgium",-5
+"United States","Belize",-20
+"Nigeria","Benin",-5
+"United States","Bolivia",-4
+"Israel","Bosnia and Herzegovina",-20
+"Serbia","Bosnia and Herzegovina",-5
+"Turkey","Bosnia and Herzegovina",-6.5
+"Chile","Brazil",-5
+"France","Brazil",-14.5
+"Italy","Brazil",-45.5
+"United States","Brazil",-9.4
+"Uzbekistan","Brazil",-5
+"Finland","Bulgaria",-6
+"France","Bulgaria",-6
+"Germany","Bulgaria",-6
+"Lithuania","Bulgaria",-2
+"Romania","Bulgaria",-5
+"Sudan","Bulgaria",-36
+"Malaysia","Cambodia",-5
+"Nigeria","Cambodia",-13
+"South Korea","Cambodia",-5
+"Thailand","Cambodia",-246.6
+"Russia","Cameroon",-5
+"Algeria","Canada",-7
+"Australia","Canada",-5
+"Belgium","Canada",-5.8
+"Chile","Canada",-5.8
+"Cote d'Ivoire","Canada",-5
+"France","Canada",-5
+"India","Canada",-2
+"Indonesia","Canada",-5
+"Iran","Canada",-5
+"Mexico","Canada",-9
+"Philippines","Canada",-2
+"United States","Canada",-32.4
+"Congo","Central African Republic",-28.5
+"Belgium","Chad",-5
+"Australia","China",-2.4
+"Brazil","China",-2
+"Cambodia","China",-5
+"Costa Rica","China",-5
+"France","China",-2
+"Germany","China",-4
+"Hong Kong","China",-28
+"India","China",-123.6
+"Iran","China",-4
+"Japan","China",-20.4
+"Kenya","China",-5
+"New Zealand","China",-5
+"North Korea","China",-10
+"Pakistan","China",-9
+"Taiwan","China",-26.8
+"Tanzania","China",-2
+"United States","China",-232.9
+"Zambia","China",-24
+"Bangladesh","Colombia",-9
+"Ecuador","Colombia",-5
+"Pakistan","Colombia",-10
+"Paraguay","Colombia",-7
+"United States","Colombia",-2
+"Venezuela","Colombia",-15
+"Central African Republic","Congo",-9
+"Democratic Republic of Congo","Congo",-9
+"India","Congo",-10
+"Nicaragua","Costa Rica",-4
+"United States","Costa Rica",-5
+"Angola","Cote d'Ivoire",-2
+"Cape Verde","Cote d'Ivoire",-5
+"Congo","Cote d'Ivoire",-0.8
+"France","Cote d'Ivoire",-15
+"Ghana","Cote d'Ivoire",-11.2
+"Kenya","Cote d'Ivoire",-12.7
+"Liberia","Cote d'Ivoire",-11
+"Malawi","Cote d'Ivoire",-0.6
+"Nigeria","Cote d'Ivoire",-7
+"South Africa","Cote d'Ivoire",-6.5
+"South Korea","Cote d'Ivoire",-19.9
+"Switzerland","Cote d'Ivoire",-4
+"Uganda","Cote d'Ivoire",-2
+"United States","Cote d'Ivoire",-55
+"Zambia","Cote d'Ivoire",-5.3
+"Austria","Croatia",-33.8
+"Bosnia and Herzegovina","Croatia",-83
+"Serbia","Croatia",-27
+"Slovenia","Croatia",-5
+"Finland","Cuba",-2
+"Mexico","Cuba",-5
+"United States","Cuba",-41.4
+"Venezuela","Cuba",-2
+"United States","Curaçao",-2
+"Germany","Cyprus",-6
+"Greece","Cyprus",-10
+"Austria","Czech Republic",-4
+"Congo","Czech Republic",-4
+"Russia","Czech Republic",-4
+"Turkey","Czech Republic",-5
+"United Kingdom","Czech Republic",-10
+"Congo","Democratic Republic of Congo",-14
+"Pakistan","Denmark",-4.4
+"United States","Denmark",-5
+"Somalia","Djibouti",-9.4
+"Australia","Ecuador",-5
+"Australia","Egypt",-20
+"Belgium","Egypt",-5
+"China","Egypt",-12
+"France","Egypt",-10.9
+"Germany","Egypt",-21.7
+"Iran","Egypt",-21.5
+"Israel","Egypt",-34.6
+"Japan","Egypt",-5
+"Jordan","Egypt",-15
+"Kuwait","Egypt",-10
+"Lebanon","Egypt",-17.7
+"Libya","Egypt",-5.3
+"Malaysia","Egypt",-13.3
+"Morocco","Egypt",-4.4
+"New Zealand","Egypt",-9.4
+"Pakistan","Egypt",-9
+"Qatar","Egypt",-2
+"Russia","Egypt",-5
+"Saudi Arabia","Egypt",-2
+"South Africa","Egypt",-0.3
+"South Korea","Egypt",-4.4
+"Spain","Egypt",-13.3
+"Sudan","Egypt",-9
+"Syria","Egypt",-9
+"Tunisia","Egypt",-7.5
+"Turkey","Egypt",-26
+"United Kingdom","Egypt",-39.8
+"United States","Egypt",-177.8
+"Venezuela","Egypt",-5
+"Yemen","Egypt",-39.5
+"United States","El Salvador",-20
+"Egypt","Eritrea",-10
+"Eritrea","Ethiopia",-7
+"France","Ethiopia",-40
+"India","Ethiopia",-9
+"Mozambique","Ethiopia",-5
+"Somalia","Ethiopia",-7
+"New Zealand","Fiji",-19
+"Afghanistan","France",-31
+"Albania","France",-4
+"Algeria","France",-0.8
+"Angola","France",-2
+"Belgium","France",-4.4
+"Cote d'Ivoire","France",-2
+"Egypt","France",-9
+"Ethiopia","France",-9
+"Georgia","France",-0.4
+"Germany","France",-5.4
+"Haiti","France",-2
+"Hungary","France",-7
+"India","France",-5
+"Indonesia","France",-20
+"Iran","France",-6
+"Israel","France",-8.5
+"Japan","France",-5
+"Lebanon","France",-4
+"Lesotho","France",-2
+"Libya","France",-2
+"Lithuania","France",-0.4
+"Mali","France",-39
+"Mexico","France",-2
+"Netherlands","France",-5
+"New Zealand","France",-5
+"Niger","France",-159
+"South Africa","France",-20.5
+"Spain","France",-2
+"United Kingdom","France",-2
+"United States","France",-7.4
+"Yemen","France",-16
+"France","Gabon",-4
+"Belarus","Georgia",-15
+"Malaysia","Georgia",-5
+"Russia","Georgia",-11.2
+"Ukraine","Georgia",-5
+"United States","Georgia",-23.9
+"Afghanistan","Germany",-29
+"Belarus","Germany",-16
+"Cyprus","Germany",-2
+"Egypt","Germany",-2
+"France","Germany",-10.4
+"Greece","Germany",-30
+"Iran","Germany",-53.4
+"Israel","Germany",-14.5
+"Poland","Germany",-5.6
+"Portugal","Germany",-20
+"Somalia","Germany",-5
+"Turkey","Germany",-8
+"United States","Germany",-30
+"Cote d'Ivoire","Ghana",-15
+"Nigeria","Ghana",-2
+"Germany","Greece",-13
+"Nigeria","Greece",-9
+"Sudan","Greece",-18
+"Turkey","Greece",-8
+"Japan","Guam",-9
+"Canada","Guatemala",-5
+"Philippines","Guatemala",-5
+"United States","Guatemala",-2
+"United States","Guyana",-5
+"Canada","Haiti",-2.4
+"Cuba","Haiti",-4
+"Dominican Republic","Haiti",-7
+"United States","Haiti",-51.4
+"Egypt","Holy See",-8
+"Pakistan","Holy See",-7
+"United States","Honduras",-15
+"Philippines","Hong Kong",-14
+"Taiwan","Hong Kong",-2
+"United States","Hong Kong",-5
+"Austria","Hungary",-0.4
+"Bulgaria","Hungary",-9.5
+"Germany","Hungary",-0.4
+"Luxembourg","Hungary",-2
+"Slovakia","Hungary",-4.8
+"Turkey","Hungary",-4
+"United States","Hungary",-5
+"Afghanistan","India",-4
+"Australia","India",-14
+"Azerbaijan","India",-5
+"Bangladesh","India",-15
+"China","India",-64
+"Colombia","India",-8
+"Congo","India",-9
+"France","India",-9.5
+"Germany","India",-10
+"Indonesia","India",-9.5
+"Japan","India",-9
+"Mozambique","India",-4
+"Myanmar","India",-9
+"Nepal","India",-20
+"Pakistan","India",-42
+"Russia","India",-2
+"Somalia","India",-15
+"Sri Lanka","India",-66
+"United Arab Emirates","India",-29
+"United Kingdom","India",-13
+"United States","India",-8
+"Afghanistan","Indonesia",-2
+"Australia","Indonesia",-7
+"France","Indonesia",-2
+"India","Indonesia",-2
+"Malaysia","Indonesia",-9.2
+"Papua New Guinea","Indonesia",-4
+"United States","Indonesia",-2
+"Vietnam","Indonesia",-2
+"Afghanistan","Iran",-137
+"Armenia","Iran",-11.2
+"Azerbaijan","Iran",-8
+"Canada","Iran",-6
+"China","Iran",-16
+"Egypt","Iran",-10
+"Gambia","Iran",-8
+"Germany","Iran",-22
+"India","Iran",-2
+"Indonesia","Iran",-19
+"Iraq","Iran",-50.5
+"Israel","Iran",-114.6
+"Lebanon","Iran",-6
+"Malaysia","Iran",-10
+"Netherlands","Iran",-64.5
+"Norway","Iran",-8
+"Oman","Iran",-15
+"Pakistan","Iran",-7
+"Poland","Iran",-2
+"Russia","Iran",-6.7
+"Saudi Arabia","Iran",-2
+"Senegal","Iran",-8
+"Somalia","Iran",-9
+"Switzerland","Iran",-8
+"United Kingdom","Iran",-32
+"United States","Iran",-76.6
+"Canada","Iraq",-32
+"Egypt","Iraq",-0.1
+"Iran","Iraq",-9
+"Kuwait","Iraq",-45
+"Saudi Arabia","Iraq",-10
+"Spain","Iraq",-2
+"Sweden","Iraq",-8.8
+"Turkey","Iraq",-7.2
+"United Kingdom","Iraq",-2
+"United States","Iraq",-47.2
+"Iceland","Ireland",-5
+"Israel","Ireland",-6
+"Mauritius","Ireland",-14
+"Norway","Ireland",-5
+"Poland","Ireland",-9.5
+"Sweden","Ireland",-5
+"United Kingdom","Ireland",-11
+"Cuba","Israel",-2
+"Egypt","Israel",-72.8
+"France","Israel",-4.9
+"Georgia","Israel",-5
+"Germany","Israel",-5
+"Iran","Israel",-90
+"Iraq","Israel",-2
+"Jordan","Israel",-23
+"Kuwait","Israel",-2
+"Kyrgyzstan","Israel",-10
+"Lebanon","Israel",-28
+"Mexico","Israel",-12
+"Morocco","Israel",-4
+"Norway","Israel",-14
+"Pakistan","Israel",-4
+"Peru","Israel",-5
+"Russia","Israel",-39.2
+"South Korea","Israel",-4
+"Thailand","Israel",-5
+"Turkey","Israel",-27
+"United Arab Emirates","Israel",-2
+"United Kingdom","Israel",-8.3
+"United States","Israel",-42.3
+"Afghanistan","Italy",-80
+"Albania","Italy",-5
+"Brazil","Italy",-28
+"Holy See","Italy",-5.4
+"United States","Italy",-2
+"Australia","Japan",-4
+"Belarus","Japan",-4.3
+"China","Japan",-9
+"North Korea","Japan",-33
+"South Korea","Japan",-29.5
+"Ukraine","Japan",-8
+"United States","Japan",-103
+"Iraq","Jordan",-10
+"Kyrgyzstan","Kazakhstan",-54
+"United States","Kazakhstan",-6
+"Cote d'Ivoire","Kenya",-31
+"India","Kenya",-5
+"Somalia","Kenya",-20
+"Uganda","Kenya",-4
+"United States","Kenya",-2
+"Serbia","Kosovo",-9
+"Egypt","Kuwait",-2
+"Iraq","Kuwait",-32
+"Syria","Kuwait",-5
+"Russia","Kyrgyzstan",-10
+"United States","Kyrgyzstan",-5
+"Uzbekistan","Kyrgyzstan",-9
+"Thailand","Laos",-5
+"Russia","Latvia",-5
+"United Kingdom","Latvia",-5
+"Algeria","Lebanon",-9
+"Egypt","Lebanon",-4.7
+"Ethiopia","Lebanon",-2
+"France","Lebanon",-5.8
+"Iran","Lebanon",-19
+"Israel","Lebanon",-55.9
+"Italy","Lebanon",-5
+"Libya","Lebanon",-10.5
+"Netherlands","Lebanon",-2
+"Saudi Arabia","Lebanon",-6
+"Syria","Lebanon",-22
+"United Kingdom","Lebanon",-0.4
+"United States","Lebanon",-64.8
+"Sierra Leone","Liberia",-5
+"Algeria","Libya",-5
+"Germany","Libya",-10
+"Ukraine","Lithuania",-4
+"India","Malaysia",-5
+"Philippines","Malaysia",-5
+"Somalia","Malaysia",-9
+"South Korea","Malaysia",-10
+"Thailand","Malaysia",-5
+"United Kingdom","Malaysia",-19
+"France","Mali",-24
+"France","Mauritania",-4
+"Canada","Mexico",-4
+"Philippines","Mexico",-10
+"United Kingdom","Mexico",-9
+"United States","Mexico",-66.3
+"United Kingdom","Mongolia",-5
+"Algeria","Morocco",-14.2
+"Greece","Morocco",-5
+"Italy","Morocco",-16
+"Spain","Morocco",-0.4
+"Portugal","Mozambique",-5
+"Bangladesh","Myanmar",-5
+"Thailand","Myanmar",-5
+"United States","Myanmar",-13
+"India","Nepal",-10
+"Afghanistan","Netherlands",-12
+"Iran","Netherlands",-37.4
+"United States","Netherlands",-22.5
+"Fiji","New Zealand",-5
+"Indonesia","New Zealand",-10
+"United Kingdom","New Zealand",-2
+"United States","New Zealand",-10
+"Costa Rica","Nicaragua",-4
+"Albania","Niger",-5
+"France","Niger",-102.2
+"Iraq","Niger",-9
+"United States","Niger",-5.6
+"Australia","Nigeria",-4.4
+"Benin","Nigeria",-2
+"Democratic Republic of Congo","Nigeria",-2
+"Ghana","Nigeria",-20.5
+"India","Nigeria",-20
+"South Africa","Nigeria",-42.7
+"United Kingdom","Nigeria",-10
+"United States","Nigeria",-4
+"China","North Korea",-60.2
+"Japan","North Korea",-48
+"South Korea","North Korea",-351.6
+"Thailand","North Korea",-0.4
+"United States","North Korea",-93.1
+"South Korea","Oman",-7.2
+"Afghanistan","Pakistan",-141.6
+"Bangladesh","Pakistan",-5
+"China","Pakistan",-10
+"Holy See","Pakistan",-2
+"India","Pakistan",-43.6
+"Iran","Pakistan",-5
+"Italy","Pakistan",-4
+"Kuwait","Pakistan",-5
+"Russia","Pakistan",-2
+"Spain","Pakistan",-10
+"United Arab Emirates","Pakistan",-5
+"United Kingdom","Pakistan",-38
+"United States","Pakistan",-478.5
+"Indonesia","Papua New Guinea",-18
+"India","Peru",-2
+"Sao Tome and Principe","Peru",-2
+"United States","Peru",-2
+"Australia","Philippines",-0.8
+"Canada","Philippines",-2
+"Hong Kong","Philippines",-5
+"South Korea","Philippines",-10
+"Thailand","Philippines",-14
+"Belarus","Poland",-22
+"Russia","Poland",-20
+"Ukraine","Poland",-0.6
+"France","Portugal",-10
+"Germany","Portugal",-15
+"Romania","Portugal",-4
+"United Kingdom","Portugal",-4
+"United States","Portugal",-32.5
+"Egypt","Qatar",-20
+"Sudan","Qatar",-19.5
+"Tunisia","Qatar",-5
+"United Kingdom","Qatar",-2
+"United States","Qatar",-2
+"Yemen","Qatar",-2
+"Finland","Romania",-6
+"France","Romania",-16
+"Germany","Romania",-16
+"Rwanda","Romania",-2
+"Thailand","Romania",-5
+"United Kingdom","Romania",-5
+"Afghanistan","Russia",-22
+"Belarus","Russia",-38
+"China","Russia",-14.4
+"Czech Republic","Russia",-2
+"Finland","Russia",-4
+"France","Russia",-9
+"Georgia","Russia",-26
+"Iran","Russia",-8
+"Italy","Russia",-10
+"Japan","Russia",-18.8
+"Latvia","Russia",-13.4
+"Lithuania","Russia",-18.4
+"Norway","Russia",-10
+"Poland","Russia",-77.8
+"Sierra Leone","Russia",-5
+"Somalia","Russia",-10
+"South Korea","Russia",-2
+"Spain","Russia",-4
+"Thailand","Russia",-10
+"Ukraine","Russia",-6
+"United Kingdom","Russia",-8
+"United States","Russia",-28
+"Uzbekistan","Russia",-10
+"Democratic Republic of Congo","Rwanda",-2
+"France","Rwanda",-20
+"Germany","Rwanda",-5
+"United States","Rwanda",-5
+"Iran","Saudi Arabia",-2
+"Iraq","Saudi Arabia",-2
+"Lebanon","Saudi Arabia",-2
+"Tunisia","Saudi Arabia",-7.1
+"Turkey","Saudi Arabia",-5
+"United States","Saudi Arabia",-10
+"Gambia","Senegal",-7
+"Bosnia and Herzegovina","Serbia",-5
+"Croatia","Serbia",-28
+"Kosovo","Serbia",-38.4
+"Montenegro","Serbia",-2
+"Netherlands","Serbia",-5
+"Australia","Singapore",-4
+"India","Singapore",-9
+"Japan","Singapore",-10
+"Bosnia and Herzegovina","Slovenia",-10
+"France","Slovenia",-2
+"Brazil","Somalia",-4
+"Burundi","Somalia",-7.2
+"Denmark","Somalia",-13
+"Ethiopia","Somalia",-32.5
+"India","Somalia",-12
+"Kenya","Somalia",-34
+"Malaysia","Somalia",-15
+"Mozambique","Somalia",-9
+"Myanmar","Somalia",-5
+"South Korea","Somalia",-94
+"Turkey","Somalia",-10
+"Uganda","Somalia",-14.4
+"United States","Somalia",-30
+"Yemen","Somalia",-41
+"Zimbabwe","Somalia",-9
+"France","South Africa",-19
+"Israel","South Africa",-4
+"Namibia","South Africa",-10
+"Nigeria","South Africa",-9
+"Sudan","South Africa",-2
+"United States","South Africa",-9
+"China","South Korea",-14
+"India","South Korea",-9
+"Japan","South Korea",-27
+"Libya","South Korea",-2
+"North Korea","South Korea",-289.7
+"Philippines","South Korea",-46.6
+"Somalia","South Korea",-23
+"Uganda","South Korea",-21
+"United States","South Korea",-27.2
+"France","Spain",-40
+"India","Sri Lanka",-17.4
+"Singapore","Sri Lanka",-5
+"Somalia","Sri Lanka",-9
+"Switzerland","Sri Lanka",-12
+"United States","Sri Lanka",-5.8
+"Canada","Sudan",-2
+"Egypt","Sudan",-4
+"Ethiopia","Sudan",-7.2
+"India","Sudan",-9
+"Netherlands","Sudan",-10
+"Russia","Sudan",-2
+"Rwanda","Sudan",-8
+"South Korea","Sudan",-0.4
+"Thailand","Sudan",-5
+"Uganda","Sudan",-17.2
+"United States","Sudan",-10
+"Egypt","Suriname",-19
+"Australia","Sweden",-7
+"United Kingdom","Sweden",-4
+"United States","Sweden",-15
+"Czech Republic","Switzerland",-2
+"Italy","Switzerland",-2
+"Kosovo","Switzerland",-2
+"Russia","Switzerland",-4
+"United States","Switzerland",-10
+"Egypt","Syria",-2
+"Iraq","Syria",-2
+"Israel","Syria",-4
+"Japan","Syria",-14.4
+"Lebanon","Syria",-12
+"United Kingdom","Syria",-0.4
+"United States","Syria",-10
+"China","Taiwan",-27
+"Hong Kong","Taiwan",-5
+"Singapore","Taiwan",-5
+"Afghanistan","Tajikistan",-18
+"Croatia","Tajikistan",-9
+"Uzbekistan","Tajikistan",-5
+"Haiti","Tanzania",-13
+"United States","Tanzania",-15
+"Cambodia","Thailand",-1009
+"Israel","Thailand",-15
+"Myanmar","Thailand",-87
+"Taiwan","Thailand",-5
+"United States","Thailand",-10
+"Indonesia","Timor-Leste",-10
+"United States","Trinidad and Tobago",-5
+"Algeria","Tunisia",-2
+"Canada","Tunisia",-7
+"Egypt","Tunisia",-6.5
+"France","Tunisia",-32.7
+"Gibraltar","Tunisia",-2
+"Jordan","Tunisia",-32.5
+"Libya","Tunisia",-0.4
+"Mali","Tunisia",-15
+"Saudi Arabia","Tunisia",-2
+"South Korea","Tunisia",-17.8
+"Switzerland","Tunisia",-2
+"Syria","Tunisia",-5
+"United Kingdom","Tunisia",-4.7
+"United States","Tunisia",-5.8
+"Yemen","Tunisia",-6.5
+"Armenia","Turkey",-20
+"Bosnia and Herzegovina","Turkey",-19.5
+"Cyprus","Turkey",-10
+"France","Turkey",-2
+"Germany","Turkey",-2
+"Greece","Turkey",-38
+"Israel","Turkey",-66
+"United States","Turkey",-9
+"Chad","Uganda",-2
+"Kenya","Uganda",-5
+"Somalia","Uganda",-7
+"United Kingdom","Uganda",-4
+"Belgium","Ukraine",-0.8
+"Czech Republic","Ukraine",-18
+"Israel","Ukraine",-10
+"Russia","Ukraine",-9
+"Spain","Ukraine",-14
+"United States","Ukraine",-4
+"South Korea","United Arab Emirates",-19
+"Afghanistan","United Kingdom",-9
+"Australia","United Kingdom",-2.4
+"Brazil","United Kingdom",-4
+"China","United Kingdom",-15
+"Cote d'Ivoire","United Kingdom",-27
+"Cuba","United Kingdom",-2
+"Egypt","United Kingdom",-10
+"Germany","United Kingdom",-0.8
+"India","United Kingdom",-24
+"Iran","United Kingdom",-58.2
+"Iraq","United Kingdom",-8.4
+"Ireland","United Kingdom",-13
+"Israel","United Kingdom",-5
+"Japan","United Kingdom",-17
+"Kenya","United Kingdom",-9
+"Mauritius","United Kingdom",-10
+"Mexico","United Kingdom",-9
+"New Zealand","United Kingdom",-9
+"Pakistan","United Kingdom",-2
+"Philippines","United Kingdom",-5
+"Russia","United Kingdom",-12
+"South Africa","United Kingdom",-5
+"Sweden","United Kingdom",-20
+"Thailand","United Kingdom",-27
+"Turkey","United Kingdom",-2
+"United Arab Emirates","United Kingdom",-5
+"United States","United Kingdom",-50
+"Afghanistan","United States",-154.4
+"Algeria","United States",-7
+"Australia","United States",-28.7
+"Austria","United States",-20
+"Bolivia","United States",-12.5
+"Brazil","United States",-7
+"Bulgaria","United States",-9
+"Canada","United States",-30
+"China","United States",-137.2
+"Cote d'Ivoire","United States",-2
+"Cuba","United States",-20
+"Egypt","United States",-29.3
+"El Salvador","United States",-5
+"France","United States",-4
+"Georgia","United States",-4
+"Guatemala","United States",-15
+"Guyana","United States",-2
+"Haiti","United States",-8.5
+"Holy See","United States",-8
+"Hong Kong","United States",-9
+"India","United States",-4
+"Indonesia","United States",-2
+"Iran","United States",-457.5
+"Iraq","United States",-160.4
+"Israel","United States",-36.9
+"Italy","United States",-2
+"Japan","United States",-4
+"Kazakhstan","United States",-15
+"Kenya","United States",-10
+"Kuwait","United States",-43.5
+"Lebanon","United States",-43.4
+"Libya","United States",-2
+"Mali","United States",-9
+"Mexico","United States",-51
+"Mongolia","United States",-5
+"Namibia","United States",-5
+"Nigeria","United States",-11
+"North Korea","United States",-10
+"Pakistan","United States",-120.1
+"Poland","United States",-2
+"Qatar","United States",-15
+"Romania","United States",-9
+"Russia","United States",-55.1
+"Serbia","United States",-29.5
+"Somalia","United States",-20
+"Sudan","United States",-28
+"Switzerland","United States",-0.3
+"Syria","United States",-8
+"Taiwan","United States",-10
+"Trinidad and Tobago","United States",-2
+"Tunisia","United States",-2
+"United Arab Emirates","United States",-4
+"United Kingdom","United States",-46.4
+"Venezuela","United States",-46
+"Vietnam","United States",-15
+"Yemen","United States",-23.5
+"Kyrgyzstan","Uzbekistan",-16
+"Portugal","Uzbekistan",-5
+"Russia","Uzbekistan",-5
+"Cuba","Venezuela",-9
+"Ecuador","Venezuela",-5
+"United States","Venezuela",-25
+"United States","Vietnam",-10
+"United States","Wallis and Futuna",-2
+"Saudi Arabia","Yemen",-5
+"Somalia","Yemen",-11
+"United States","Yemen",-15.4
+"Malaysia","Zimbabwe",-5
+"Somalia","Zimbabwe",-9
+"South Africa","Zimbabwe",-19
+"United States","Zimbabwe",-4.4

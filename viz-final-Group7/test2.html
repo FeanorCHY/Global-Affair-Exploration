@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>D3 World Map Template</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/header.css">
+</head>
+<body>
+
+<header class="nav">
+    <h3 id="title"> Global Affair Exploration</h3>
+    <ul id="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="calendar_heatmap.html">Heat map</a></li>
+        <li><a  style="color:#5a5a5a; border: none;" href="test2.html"> Choropleth-Arc Map</a></li>
+    </ul>
+</header>
+
+
+<div id="content">
+
+<div id="controller">
+    <div id="buttons">
+        <div class="wrapper">
+            <p>Crisis Choropleth</p>
+            <label class="switch">
+                <input type="checkbox" value="On" id="crisis" onclick="crisis()">
+                <div class="sliderc round"></div>
+            </label>
+        </div>
+
+        <div class="wrapper">
+            <p>Event Arcs </p>
+            <label class="switch">
+                <input type="checkbox" value="On" id="eventhide" onclick="eventhide()">
+                <div class="slidere round"></div>
+            </label>
+        </div>
+    </div>
+
+    <div id="listC">
+        <h3 id="crisistitle">Crisis</h3>
+        <p id="crisistoptitle">Top 5 Countries with Highest Crisis Rate<p>
+        <div class="wrapper">
+        <div id="topnumber">
+        <p>#1</p>
+        <p>#2</p>
+        <p>#3</p>
+        <p>#4</p>
+        <p>#5</p>
+        </div>
+        <div id="worst_list"></div>
+        </div>
+
+
+        <h3 id="eventstitle">Negative Events</h3>
+        <div id="countryname"></div>
+        <div class="wrapper">
+            <div class="inline">
+                <p class="title">be influenced by</p>
+                <div id="topsource" ></div>
+            </div>
+
+            <div class="inline intensity">
+                <p class="title">Intensity</p>
+                <div id="sourceinten" ></div>
+            </div>
+        </div>
+
+        <div class="wrapper">
+             <div class="inline">
+                 <p class="title">influenced</p>
+                 <div id="toptarget"></div>
+             </div>
+            <div class="inline intensity">
+                <p class="title">Intensity</p>
+                <div id="targetinten" ></div>
+            </div>
+         </div>
+    </div>
+</div>
+
+
+<div id="map">
+    <div id="container">
+    </div>
+    <div id="chart">
+        <svg id="chartsvg"></svg>
+    </div>
+</div>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"> </script>
+<script src="js/topojson.v1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.13.0/d3-legend.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

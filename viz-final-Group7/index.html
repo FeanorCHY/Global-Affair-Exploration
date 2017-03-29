@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Global Affair Exploration</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+<header class="nav">
+    <h3 id="title"> Global Affair Exploration</h3>
+    <ul id="nav-list">
+        <li><a style="color:#5a5a5a; border: none;" href="index.html">Home</a></li>
+        <li><a href="calendar_heatmap.html">Heat map</a></li>
+        <li><a href="test2.html"> Choropleth-Arc Map</a></li>
+    </ul>
+</header>
+<div id="first-heading">
+    <h1>Global Affair Exploration</h1>
+    <div id="about">
+        <p id="course">INFSI 2415 Final Project (Fall 2016)
+        </p>
+        <p id="author">Group 7: Hongyuan Cui (hoc27)| Rong jie (jir18) | Wenxing Li (wel85)
+        </p>
+    </div>
+</div>
+<img  id="homeimge" src="image/home.jpeg"  alt="event-crisis-map" />
+<div class="home-container">
+    <div id="intro" class="second">
+        <h2>Introduction</h2>
+        <p>The world is highly connected now, we have events and crisis happens each day. As a member of this world we may want to know how many crisis happens for each country and what account for these crisis. However, there are billions of events and we cannot use traditional way to read them one by one. Therefore, we need an efficient visualization tool to explore the world. In this project, we display the crisis number of each country and international and national events used to explore possible reasons for crisis.
+        </p>
+    </div>
+    <div id="about-data" class="second">
+        <h2> About Data</h2>
+        <p>For the source of data, we have two sets: crisis and events. Crisis dataset contains how many crisis happens for each country in each month. Event dataset contains all recorded events with source, target, time and intensity of it.
+            Here are 5 types of crisis: insurgencies, rebellions, inter-state conflicts, ethnic and religious violence, and domestic political crisis. Here we sum them up into a single value.
+            Events have source and Target which can be decomposed into country and sectors of that country. For example, here is military army of country A attacks country B’s government. So the source country is A and source sector is military army and target country is B and target sector is government. Of course, events also contain the condition that target country and source country is the same and we can take this as national events. If we want to know the political environment for the world, we do not consider the sectors and we should consider that when we need to explore the political environment solely for a single country. Each event has an intensity value which ranges from -10 to 10 which can evaluate how negative or positive of that event.
+        </p>
+    </div>
+    <div id="prepar" class="second">
+        <h2>Preparation Work</h2>
+        <p>In this visualization, we assume that only negative crisis can lead to crisis, so we remove all positive events. then we aggregate the event data by month, country and sum intensity as international data. Then aggregate the dataset more by sectors if we want national event data of a certain country. There are 2 gigabytes for events dataset and our visualization compresses all of them into several graphs so our visualization if efficient for users to explore the world.
+        </p>
+    </div>
+    <div id="discover" class="second">
+        <h2>Read More</h2>
+        <p>See <a href="test2.html">Demo</a></p>
+        <p>See <a href="paper.pdf"> Paper</a></p>
+        <p>See <a href="slide.pdf"> Slides</a></p>
+
+    </div>
+
+    <footer>
+
+    </footer>
+</div>
+</body>
+</html>

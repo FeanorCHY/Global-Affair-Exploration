@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/Detail.css">
+    <link rel="stylesheet" type="text/css" href="css/header.css">
+    <style>
+        body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,select,textarea,form{margin: 0; padding: 0;}
+        body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;}
+        img{border:none;}
+        ul,ol{list-style:none;}
+        input,select,textarea{outline:none;border:none;background:none;}
+        textarea{resize:none;}
+        a{text-decoration:none;}
+        .nav ul li a{
+            font-size:16px;
+        }
+    </style>
+</head>
+
+<header class="nav">
+    <h3 id="title"> Global Affair Exploration</h3>
+    <ul id="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="calendar_heatmap.html">Heat map</a></li>
+        <li><a  style="color:#5a5a5a; border: none;" href="test2.html"> Choropleth-Arc Map</a></li>
+    </ul>
+</header>
+
+<header id="sec-nav">
+    <div>
+        <h2 id="SCountry"></h2>
+    </div>
+    <div>
+        <h2 id="SDate"></h2>
+    </div>
+</header>
+
+<body>
+
+<div id="barchart"></div>
+<div id="linechart"></div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script src="js/Detail.js"></script>
+</body>
+</html>
